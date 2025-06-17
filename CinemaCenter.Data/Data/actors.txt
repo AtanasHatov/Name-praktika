@@ -1,0 +1,5 @@
+Иван,Петров,15,0888123456,ivanpetrov@gmail.com
+Мария,Иванова,18,0899345678,mariaivanova@gmail.com
+Георги,Георгиев,20,0877456123,georgiev@gmail.com
+Елена,Костова,17,0888444333,elenakostova@abv.bg
+Николай,Тодоров,16,0888999000,nikolaytodorov@gmail.com
